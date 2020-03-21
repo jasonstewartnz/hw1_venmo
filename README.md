@@ -3,6 +3,8 @@ Case study on Venmo, which is an exciting mobile payment technology company.
 
 ![Venmo Logo](images/venmo_logo.png)
 
+![Founders](https://i.insider.com/538f296869bedd982ab5dd74?width=600&format=jpeg&auto=webp)
+
 ## History
 
 * 2001: *Company Founded*
